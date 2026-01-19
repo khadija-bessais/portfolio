@@ -112,48 +112,50 @@ My journey spans **end-to-end project development**, from concept and design to 
 ### 🤖 **Hotelia Smart** – Web Platform for Hotel Management
 > **Lead Developer** | *PHP, HTML, CSS, JS, MySQL*  
 – Developed a client-facing platform with booking system for cleaning services and an admin dashboard to manage operations efficiently.  
-- **[View Project on GitHub](https://github.com/yourusername/hotelia-smart)**
+- **[View Project on GitHub](https://github.com/khadija-bessais/website-html-css-js-php.git)**
  
 
 
-### 🏭 **Cleansy** - cleaning center management
-> **Desktop Developer** | *Qt C++, Arduino, SQL, RFID*
-- Comprehensive cleaning center management with Arduino RFID integration
-- Real-time notifications, mapping services, and analytics
-- Employee, client, and fleet management capabilities
-- **[GitHub Repo](https://github.com/madaradou/clansyqtapp.git)**
+### 🏭 **Cleansy** – Cleaning Center Management System
+> **Desktop Developer** | *Qt (C++), Arduino, SQL, RFID*  
+- Desktop application for comprehensive cleaning center management  
+- RFID-based employee and equipment tracking using Arduino  
+- Real-time notifications, mapping services, and analytics  
+- Management of employees, clients, and equipment  
+- **[View GitHub Repository](https://github.com/khadija-bessais/desktop-app-c-.git)**
+- 
+### 🎮 **Rebirth** – Award-Winning 2D Platformer Game
+> **Game Developer** | *C Language, SDL 1.2, Arduino*  
+- 🥈 **2nd Place** winner at **Game Day 2024** and **Bal des Projets 2024**  
+- Multi-level 2D platformer featuring a dynamic combat system  
+- Arduino-based controller integration for enhanced gameplay interaction  
+- Interactive storytelling and immersive game mechanics  
+- **[View GitHub Repository](https://github.com/khadija-bessais/2d-game-c-sdl.git)**
 
-### 🎮 **Rebirth** - Award-Winning Game
-> **Game Developer** | *SDL 1.2, C Language, Arduino*
-- **2nd Place** winner at Game Day 2024 and Bal des Projets 2024
-- Multi-level 2D platformer with dynamic combat system
-- Arduino controller integration and interactive storytelling
-- **[GitHub Repo](https://github.com/madaradou/rebirthed.git)**
 
-### � **Ess9ini** - Smart Agriculture Platform
-> **Full Stack Developer** | *React, Node.js, Flet, MongoDB, AI Integration*
-Ess9ini transforms traditional farming into smart, data-driven agriculture through:
-- **Real-time soil moisture monitoring** with IoT sensors
-- **AI-powered irrigation recommendations** based on weather and soil data
-- **Interactive farm mapping** with visual sensor status
-- **Arabic/English bilingual interface** for Tunisian farmers
-- **Mobile-responsive design** for field access
-- **[GitHub Repo](https://github.com/madaradou/ess9ini.git)**
+### 🌐 **Enterprise Network Infrastructure Project**
+> **Network & System Administrator** | *Linux, NFS, ACLs, GNS3*  
+- Design and deployment of a **multi-service enterprise network infrastructure**  
+- Configuration of **NFS file-sharing services** for collaborative access across departments  
+- Implementation of **Access Control Lists (ACLs)** to secure and manage network traffic  
+- Network simulation, testing, and troubleshooting using **GNS3**  
+- **[View Project Documentation](https://github.com/khadija-bessais/network-infrastructure-project)**
+
 
 ---
 
-## 📊 **madaradou's GitHub Analytics**
+## 📊 **Khadija Bessais's GitHub Analytics**
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madaradou&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaradou&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadija-bessais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-bessais&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=madaradou&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=khadija-bessais&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
@@ -161,7 +163,7 @@ Ess9ini transforms traditional farming into smart, data-driven agriculture throu
 
 ### 🏆 GitHub Trophy Showcase
 
-<img src="https://github-profile-trophy.vercel.app/?username=madaradou&row=2&column=4&theme=monokai" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=khadija-bessais&row=2&column=4&theme=monokai" alt="GitHub Trophies" />
 
 </div>
 
@@ -172,8 +174,8 @@ Ess9ini transforms traditional farming into smart, data-driven agriculture throu
 <div align="center">
 
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/yassin-wesslati-967324371)
-  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:wesslatiyassine@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yassin.wesslati.7)
+  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:khadijabessais2@gmail.com)
+  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:khadija.bessais@esprit.tn)
 
 </div>
 
@@ -181,20 +183,7 @@ Ess9ini transforms traditional farming into smart, data-driven agriculture throu
 
 <div align="center">
 
-  ### **"The future belongs to those who believe in the beauty of their dreams."
-— Eleanor Roosevelt
-
-  **Let's build the future of agriculture and technology together. Connect with me for collaboration opportunities.**
-
-
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madaradou&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadija-bessais&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
