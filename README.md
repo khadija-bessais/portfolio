@@ -28,12 +28,15 @@
 I am **Khadija Bessais**, an **Engineering Student** and passionate **Web & Software Developer** with expertise in **Full-Stack Web Development**, **Desktop Applications**, and **2D Game Development**.
 
 My journey spans **end-to-end project development**, from concept and design to implementation and deployment. I specialize in **web applications**, interactive desktop software, and client-ready projects, consistently delivering solutions that are functional, polished, and impactful. I’m driven by learning, innovation, and creating tools that solve real-world problems.
+
 ### **Current Focus Areas:**
-- 🏗️ **Full-Stack Architecture** - Designing scalable, maintainable systems with modern technologies
-- 📱 **Cross-Platform Development** - React, Flutter, and desktop applications
-- 🤖 **AI Integration** - Implementing intelligent features for enhanced user experiences
-- 🔧 **IoT & Hardware** - Arduino programming and embedded systems development
-- 💼 **Technical Leadership** - Mentoring students and driving innovation in education
+🌐 **Full-Stack Development** – Building responsive, client-ready web applications using HTML, CSS, JavaScript, PHP, and modern frameworks
+
+🖥️ **Desktop & 2D Game Development** – Developing C/C++ applications and interactive SDL-based projects
+
+🔧 **Networking & System Administration** – Configuring NFS shares, ACLs, GNS3 network simulations, and collaborative file-sharing solutions
+
+💼 **Project & Technical Mentorship** – Guiding peers, organizing projects, and delivering professional, client-ready solutions
 
 ---
 
@@ -42,22 +45,26 @@ My journey spans **end-to-end project development**, from concept and design to 
 <div align="center">
 
 ### **Programming Languages**
-[![Programming Languages](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=ts,python,js,php,cpp,c)](https://skillicons.dev)
 
 ### **Frontend Technologies**
-[![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap)](https://skillicons.dev)
+[![Frontend Technologies](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### **Backend & Frameworks**
-[![Backend & Frameworks](https://skillicons.dev/icons?i=nodejs,express,symfony,php,flask)](https://skillicons.dev)
+[![Backend & Frameworks](https://skillicons.dev/icons?i=php,symfony)](https://skillicons.dev)
 
-### **Mobile & Desktop Development**
-[![Mobile & Desktop](https://skillicons.dev/icons?i=flutter,dart,qt,androidstudio)](https://skillicons.dev)
+### **Desktop & Game Development**
+[![Desktop & Game](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)
 
-### **Databases & Cloud**
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase)](https://skillicons.dev)
+### **Networking & System Administration**
+[![Networking & SysAdmin](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ### **Tools & Technologies**
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,docker,vscode,arduino)](https://skillicons.dev)
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,anaconda,idea,ubuntu)](https://skillicons.dev)
+
+### **Design & UI Tools**
+[![Design & UI Tools](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
+
 
 </div>
 
@@ -73,51 +80,41 @@ My journey spans **end-to-end project development**, from concept and design to 
         <li><strong>2nd Place</strong> – Game Day 2024 for "Rebirth"</li>
         <li><strong>2nd Place</strong> – Bal des Projets 2024 by ESPRIT</li>
         <li><strong>Award-winning</strong> 2D platformer game with SDL 1.2</li>
-        <li><strong>Top Recognition</strong> – Multiple university competitions</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
-      <h3 style="color: #EABE7C;">🚀 Entrepreneurship</h3>
+      <h3 style="color: #EABE7C;">💼 Professional Experience</h3>
       <ul style="padding-left: 18px; margin-top: 10px;">
-        <li><strong>Founder</strong> – Tache-Lik Educational Platform</li>
-        <li><strong>Platform Impact</strong> – Guiding ESPRIT students</li>
-        <li><strong>Technical Leadership</strong> – Full-stack development & strategy</li>
-        <li><strong>Innovation</strong> – AI-powered learning solutions</li>
+        <li><strong>Full-Stack Developer</strong> – Web, desktop, and 2D game applications</li>
+        <li><strong>Technical Intern</strong> – Amen Bank</li>
+        <li><strong>Network Projects</strong> – Deployment of multi-service network infrastructure (NFS, ACLs, GNS3)</li>
+        <li><strong>Freelance Development</strong> – Client-focused, professional solutions</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
-      <h3 style="color: #EABE7C;">💼 Professional Experience</h3>
-      <ul style="padding-left: 18px; margin-top: 10px;">
-        <li><strong>Flutter Developer</strong> – High-performance mobile apps</li>
-        <li><strong>Technical Intern</strong> – Tunisie Telecom</li>
-        <li><strong>Full-Stack Projects</strong> – Web, mobile, and desktop solutions</li>
-        <li><strong>Freelance Development</strong> – Client-focused solutions</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
       <h3 style="color: #EABE7C;">🎯 Technical Excellence</h3>
       <ul style="padding-left: 18px; margin-top: 10px;">
-        <li><strong>IoT Integration</strong> – Arduino & embedded systems</li>
-        <li><strong>AI Implementation</strong> – Machine learning & automation</li>
-        <li><strong>Real-time Systems</strong> – Socket.io & live features</li>
-        <li><strong>Cross-platform</strong> – React, Flutter, Qt applications</li>
+        <li><strong>Desktop & Game Dev</strong> – C/C++ apps and SDL games</li>
+        <li><strong>Web Development</strong> – HTML, CSS, JS, PHP full-stack projects</li>
+        <li><strong>Networking & SysAdmin</strong> – NFS, ACLs, Linux, GNS3 simulations</li>
       </ul>
     </td>
-  </tr>
+</tr>
+
 </table>
 
 ---
 
 ## 🌟 **Featured Projects**
 
-### 🤖 **Hotelia Smart** - AI-Powered Recruitment Platform
-> **Lead Developer** | *PHP, Python, MySQL, OpenCV, Stripe*
-- AI-chatbot assistance
-- Face recognition authentication and voice navigation
-- Real-time messaging
-- **[Source Code](https://github.com/madaradou/hireup)**
+### 🤖 **Hotelia Smart** – Web Platform for Hotel Management
+> **Lead Developer** | *PHP, HTML, CSS, JS, MySQL*  
+– Developed a client-facing platform with booking system for cleaning services and an admin dashboard to manage operations efficiently.  
+- **[View Project on GitHub](https://github.com/yourusername/hotelia-smart)**
+ 
+
 
 ### 🏭 **Cleansy** - cleaning center management
 > **Desktop Developer** | *Qt C++, Arduino, SQL, RFID*
